@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ankit Paruriya, a passionate web developer.
+- 👀 I’m interested in creating responsive and user-friendly web applications.
+- 🌱 I’m currently learning the latest web development technologies and frameworks, such as React and Node.js.
+- 💞️ I’m looking to collaborate on exciting web development projects that challenge and inspire me.
+- 📫 How to reach me: Feel free to contact me via email at [akumar7102001@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/ankitparuriya/).
